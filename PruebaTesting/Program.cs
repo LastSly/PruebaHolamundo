@@ -7,6 +7,7 @@ namespace PruebaTesting
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo!");
+            //comentario para hacer funcionar sonarcloud
         }
     }
 }
