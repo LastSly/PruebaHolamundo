@@ -1,0 +1,13 @@
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.exe
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.deps.json
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.runtimeconfig.json
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.runtimeconfig.dev.json
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.dll
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\bin\Debug\netcoreapp3.1\PruebaTesting.pdb
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.csprojAssemblyReference.cache
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.AssemblyInfoInputs.cache
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.AssemblyInfo.cs
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.csproj.CoreCompileInputs.cache
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.dll
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.pdb
+C:\Users\Lastsly\Desktop\Prueba testing\PruebaTesting\PruebaTesting\obj\Debug\netcoreapp3.1\PruebaTesting.genruntimeconfig.cache
